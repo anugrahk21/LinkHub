@@ -98,9 +98,9 @@ We welcome contributions! To contribute:
 
 Please adhere to the project’s coding standards and include relevant tests with your contributions. 🛠️📜🌟
 
-## License 📜✔️✨
+## License for usage 📜✔️✨
 
-This project is licensed under the MIT License. 🌟🔒✨
+This project is licensed under the [No-use License](LICENSE.md). 🌟🔒✨
 
 ## Contact 📬👥✨
 
